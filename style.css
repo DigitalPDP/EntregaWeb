@@ -27,7 +27,7 @@ Otra cosa que deberías rescatar de tu fanzine son las tipografías, usando http
 
 
 body{
-    background:#002677(--segundocolor);
+    background:var(--segundocolor);
     color:var(--colorclaro);
     font-family: 'Epilogue', sans-serif;
     font-weight: 400;
