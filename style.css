@@ -68,15 +68,15 @@ header{
     color:var(--colorclaro);
 }
 
-@media (min-width: 576px) { 
+@media (min-width: 1000px) { 
     header{background-image:url('img/imagen portada 4-3.jpg');}
 }
 
-@media (min-width: 768px) { 
+@media (min-width: 1114px) { 
     header{background-image:url('img/imagen portada 16-9.jpg');}
 }
 
-@media (min-width: 992px) { 
+@media (min-width: 1226px) { 
     header{background-image:url('img/imagen portada 275-1.jpg');}
 }
 
